@@ -1,3 +1,9 @@
+from population import PopulateDict
+from segmentation import Segment
+
+
 if __name__ == '__main__':
-    print("hello")
+    s = Segment()
+    s.process_image()
+
 
