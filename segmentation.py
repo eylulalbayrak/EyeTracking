@@ -65,7 +65,7 @@ class Segment:
         self.check_segmentation_size()
         rows, columns = self.get_segmentation_size()
         width, height = self.get_image_size()
-        print(self.grid_segmentation(width, height, rows, columns))
+        self.grid_segmentation(width, height, rows, columns)
 
     def addFixation(self, letter, file):
         total_fixations = self.segments[letter][file]['total_fixations'] + 1
