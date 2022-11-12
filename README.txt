@@ -10,12 +10,18 @@ Eylul
 Adam
 - Python 3.10.6 on Ubuntu 22.04.1
 
+Workflow:
+- Tasks split between team members
+- Coordinated with git
+- Cross-checked produced code by the other member
 
 Tasks:
-- Take a command line argument and manage menu operations ()
-- Dictionary Creation ()
-- Read from a file ()
-- Update total viewed time and total number of fixations while reading file ()
-- Update total number of people while reading file ()
-- Compare for a specific element on a particular image with a bar chart ()
-- Compare for a specific image with a bar chart ()
+- Take a command line argument and manage all menu operations (Adam)
+- Dictionary Creation (Eylul)
+- Read from a file (Eylul)
+- Update total viewed time and total number of fixations while reading file (Eylul)
+- Update total number of people while reading file (Eylul)
+- Compare for a specific element on a particular image with a bar chart (Adam)
+- Compare for a specific image with a bar chart (Adam)
+- README (Adam)
+- Some quality assurance (Adam)
