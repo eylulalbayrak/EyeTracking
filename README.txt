@@ -8,7 +8,7 @@ Eylul
 - Python 3.7.1 on Windows 10
 
 Adam
-- 
+- Python 3.10.6 on Ubuntu 22.04.1
 
 
 Tasks:
