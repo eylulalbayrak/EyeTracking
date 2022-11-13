@@ -78,5 +78,3 @@ class Segment:
     def addPerson(self, letter, file):
         total_people = self.segments[letter][file]['total_people'] + 1
         self.segments[letter][file]['total_people'] = total_people
-
-

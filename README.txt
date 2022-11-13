@@ -12,8 +12,8 @@ Adam
 
 Workflow:
 - Tasks split between team members
-- Coordinated with git
-- Cross-checked produced code by the other member
+- Coordinated via github
+- Cross-checked code produced by the other member
 
 Tasks:
 - Take a command line argument and manage all menu operations (Adam)
@@ -24,4 +24,3 @@ Tasks:
 - Compare for a specific element on a particular image with a bar chart (Adam)
 - Compare for a specific image with a bar chart (Adam)
 - README (Adam)
-- Some quality assurance (Adam)
